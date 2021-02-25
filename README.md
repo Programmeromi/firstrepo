@@ -14,6 +14,7 @@ _I am italic_ \
 __I am Bold__ \
 ~~I am Strikethrough~~ 
 
+
 * element 1
 * element 2
 * element 3
@@ -31,4 +32,5 @@ __I am Bold__ \
 
 [I am a Google](https://www.google.co.in/?gws_rd=ssl) \
 ![Logo](https://content.fortune.com/wp-content/uploads/2017/01/google.jpeg?resize=1000,666)
+
 
