@@ -12,7 +12,8 @@ This is my first repository.
 _I am italic_ \
 **I am Bold** \
 __I am Bold__ \
-~~I am Strikethrough~~ \
+~~I am Strikethrough~~ 
+
 
 * element 1
 * element 2
@@ -30,5 +31,6 @@ __I am Bold__ \
 | Data 3 | Data 4 |
 
 [I am a Google](https://www.google.co.in/?gws_rd=ssl) \
-! [Logo](https://content.fortune.com/wp-content/uploads/2017/01/google.jpeg?resize=1000,666)
+![Logo](https://content.fortune.com/wp-content/uploads/2017/01/google.jpeg?resize=1000,666)
+
 
