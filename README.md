@@ -8,11 +8,11 @@ This is my first repository.
 ##### This is Header 5
 ###### This is Header 6
 
-*I am Italic*
-_I am italic_
-**I am Bold**
-__I am Bold__
-~~I am Strikethrough~~
+*I am Italic* \
+_I am italic_ \
+**I am Bold** \
+__I am Bold__ \
+~~I am Strikethrough~~ \
 
 * element 1
 * element 2
@@ -29,6 +29,6 @@ __I am Bold__
 | Data 1 | Data 2 |
 | Data 3 | Data 4 |
 
-[I am a Google](https://www.google.co.in/?gws_rd=ssl)
+[I am a Google](https://www.google.co.in/?gws_rd=ssl) \
 ! [Logo](https://content.fortune.com/wp-content/uploads/2017/01/google.jpeg?resize=1000,666)
 
